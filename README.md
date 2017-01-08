@@ -28,10 +28,10 @@ Run this command at the terminal prompt to install [OpenCV](http://opencv.org/).
 2. Clone the project and start the notebook.
 
  ```
- git clone https://github.com/udacity/CarND-Traffic-Signs
- cd CarND-Traffic-Signs
- jupyter notebook Traffic_Sign_Classifier.ipynb
+ git clone https://github.com/minmingzhao/CarND-Traffic-Sign-Classifier-Project
+ cd CarND-Traffic-Sign-Classifier-Project
+ jupyter notebook Traffic_Sign_Classifier_MZ.ipynb
  ```
  
-3. Follow the instructions in the `Traffic_Sign_Classifier.ipynb` notebook.
+3. Follow the instructions in the `Traffic_Sign_Classifier_MZ.ipynb` notebook.
 
