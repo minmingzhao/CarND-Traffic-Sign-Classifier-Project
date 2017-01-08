@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\PikeZhao\\Documents\\CondaCodes\\Local\\CarND-Traffic-Sign-Classifier-Project\\lenet"
+all_model_checkpoint_paths: "C:\\Users\\PikeZhao\\Documents\\CondaCodes\\Local\\CarND-Traffic-Sign-Classifier-Project\\lenet"
